@@ -1,0 +1,16 @@
+.container-header {
+  display: flex;
+  justify-content: center;
+  background: #000;
+  gap: 2vw;
+  padding: 2vw;
+  &__link {
+    color: #ffff;
+    font-size: 22px;
+  }
+}
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}

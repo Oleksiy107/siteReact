@@ -1,0 +1,13 @@
+.question-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2vw;
+  &__text-buy {
+    font-size: 22px;
+    padding: 2vw;
+  }
+  &__text-delivery {
+    font-size: 22px;
+    padding: 2vw;
+  }
+}

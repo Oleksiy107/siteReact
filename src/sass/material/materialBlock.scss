@@ -1,0 +1,23 @@
+.product-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2vw;
+  &__text-sniker {
+    font-size: 22px;
+    padding: 2vw;
+  }
+  &__text-Chocolate-milk {
+    font-size: 22px;
+    padding: 2vw;
+  }
+  &__img-snikers {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+  }
+  &__img-ChocolateMilk {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+  }
+}

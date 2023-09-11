@@ -1,0 +1,11 @@
+.main-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  &__text {
+    font-size: 22px;
+  }
+  &__star {
+    width: 30%;
+  }
+}
