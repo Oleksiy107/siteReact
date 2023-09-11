@@ -4,9 +4,9 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <div className="container-header">
-      {/* <Link to="/" className="container-header__link">
+      <Link to="/" className="container-header__link">
         Main pages
-      </Link> */}
+      </Link>
       <Link to="/question" className="container-header__link">
         Question pages
       </Link>

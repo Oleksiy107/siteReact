@@ -1,0 +1,124 @@
+/*!*******************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./src/sass/header.scss ***!
+  \*******************************************************************************************************************************************/
+.container-header {
+  display: flex;
+  justify-content: center;
+  background: #000;
+  gap: 2vw;
+  padding: 2vw;
+}
+.container-header__link {
+  color: white;
+  font-size: 22px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+/*!**************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./src/sass/mainPart/main.scss ***!
+  \**************************************************************************************************************************************************/
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+.box-clicker {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-clicker__inner {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+/*!***********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./src/sass/mainPart/mainPartFirst.scss ***!
+  \***********************************************************************************************************************************************************/
+.main-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.main-container__text {
+  font-size: 22px;
+}
+.main-container__star {
+  width: 30%;
+}
+/*!****************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./src/sass/questionPart/questionHeader.scss ***!
+  \****************************************************************************************************************************************************************/
+.container-header {
+  display: flex;
+  justify-content: center;
+  background: #000;
+  gap: 2vw;
+  padding: 2vw;
+}
+.container-header__link {
+  color: white;
+  font-size: 22px;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+/*!***************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./src/sass/questionPart/questionBlock.scss ***!
+  \***************************************************************************************************************************************************************/
+.question-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2vw;
+}
+.question-container__text-buy {
+  font-size: 22px;
+  padding: 2vw;
+}
+.question-container__text-delivery {
+  font-size: 22px;
+  padding: 2vw;
+}
+/*!***********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./src/sass/material/materialBlock.scss ***!
+  \***********************************************************************************************************************************************************/
+.product-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2vw;
+}
+.product-container__text-sniker {
+  font-size: 22px;
+  padding: 2vw;
+}
+.product-container__text-Chocolate-milk {
+  font-size: 22px;
+  padding: 2vw;
+}
+.product-container__img-snikers {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
+.product-container__img-ChocolateMilk {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
+/*!*********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./src/sass/contact/ContactBlock.scss ***!
+  \*********************************************************************************************************************************************************/
+.contact-container__number-name {
+  font-size: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 2vw;
+}
