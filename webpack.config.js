@@ -6,7 +6,7 @@ module.exports = {
   mode: "development",
   entry: "./src/index.jsx",
   output: {
-    path: path.resolve(__dirname, "public"),
+    path: path.resolve(__dirname, "dist"),
     filename: "[name][fullhash].js",
     clean: true,
     publicPath: "./",
@@ -19,7 +19,7 @@ module.exports = {
     open: true,
 
     static: {
-      directory: path.join(__dirname, "public"),
+      directory: path.join(__dirname, "dist"),
     },
   },
   module: {

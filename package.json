@@ -8,7 +8,7 @@
     "start": "webpack serve --open",
     "watch": "webpack --watch",
     "predeploy": "npm run build",
-    "deploy-github": "gh-pages -d public"
+    "deploy-github": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
