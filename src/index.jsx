@@ -14,7 +14,7 @@ const rootEl = document.getElementById("root");
 const rootInstance = ReactDom.createRoot(rootEl);
 
 rootInstance.render(
-  <BrowserRouter basename="/siteReact">
+  <BrowserRouter>
     <App />
   </BrowserRouter>
 );
