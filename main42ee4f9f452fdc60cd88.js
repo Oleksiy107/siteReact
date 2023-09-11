@@ -66,7 +66,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \*********************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ firstPart)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n\nfunction firstPart() {\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(\"div\", {\n    className: \"main-container\"\n  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(\"p\", {\n    className: \"main-container__text\"\n  }, \"this site is for preparing for the position of front-end.\"));\n}\n\n//# sourceURL=webpack://web/./src/components/mainComponents/FirstPartMain.jsx?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ firstPart)\n/* harmony export */ });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _static_star_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../../static/star.png */ \"./static/star.png\");\n\n\nfunction firstPart() {\n  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(\"div\", {\n    className: \"main-container\"\n  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(\"p\", {\n    className: \"main-container__text\"\n  }, \"this site is for preparing for the position of front-end.\"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(\"img\", {\n    src: _static_star_png__WEBPACK_IMPORTED_MODULE_1__,\n    alt: \"star\",\n    className: \"main-container__star\"\n  }));\n}\n\n//# sourceURL=webpack://web/./src/components/mainComponents/FirstPartMain.jsx?");
 
 /***/ }),
 
@@ -337,6 +337,16 @@ eval("module.exports = __webpack_require__.p + \"372fa2160ac2403eea2b.jpeg\";\n\
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"64d29a22f2e20bd2babe.jpeg\";\n\n//# sourceURL=webpack://web/./static/snikers.jpeg?");
+
+/***/ }),
+
+/***/ "./static/star.png":
+/*!*************************!*\
+  !*** ./static/star.png ***!
+  \*************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"eaf6213c016cd948b801.png\";\n\n//# sourceURL=webpack://web/./static/star.png?");
 
 /***/ })
 
